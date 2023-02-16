@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slows14tem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={slows14})](https://solved.ac/{slows14})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=slows14)](https://solved.ac/slows14)
 
 <!--
 **slows14tem/slows14tem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
